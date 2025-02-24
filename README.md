@@ -6,16 +6,6 @@
 
 ---
 
-<h2 align="center">🔹 About</h2>  
-<ul align="center">
-  <li>Building a <strong>portfolio</strong> showcasing my work and expertise.</li>  
-  <li>Exploring <strong>low-level programming</strong> after transitioning to Arch Linux + Hyprland.</li>  
-  <li>Proficient in <strong>web development, systems programming, and 3D graphics.</strong></li>  
-  <li>Passionate about learning and integrating new technologies.</li>  
-</ul>  
-
----
-
 <h2 align="center">🛠️ Setup</h2>  
 <p align="center">
   <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat"/>
@@ -49,7 +39,14 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 </p>  
+---
 
+<h2 align="center">🔹 More About Me</h2>  
+<ul align="center">
+  <li>Building a <strong>portfolio</strong> showcasing my work and expertise.</li>  
+  <li>Exploring <strong>low-level programming</strong> after transitioning to Arch Linux + Hyprland.</li>  
+  <li>Passionate about learning and integrating new technologies.</li>  
+</ul>  
 
 <p align="center">
   <i>Always open to opportunities and collaboration.</i>
