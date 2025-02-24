@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 </p>  
----
 
+---
 <h2 align="center">🔹 More About Me</h2>  
 <ul align="center">
   <li>Building a <strong>portfolio</strong> showcasing my work and expertise.</li>  
@@ -48,6 +48,7 @@
   <li>Passionate about learning and integrating new technologies.</li>  
 </ul>  
 
+---
 <p align="center">
   <i>Always open to opportunities and collaboration.</i>
 </p>
