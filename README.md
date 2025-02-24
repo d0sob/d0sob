@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat"/>
 </p>  
 
@@ -47,6 +46,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
+    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
 </p>  
 
