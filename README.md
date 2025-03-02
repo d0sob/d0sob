@@ -17,28 +17,14 @@
 
 <h2 align="center">🚀 Tech Stack</h2>  
 
-<h3 align="center">Frontend</h3>  
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat"/>
-</p>  
-
-<h3 align="center">Game Development</h3>  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat"/>
-</p>  
-
-<h3 align="center">Other</h3>  
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
+  <img src="https://img.shields.io/badge/-Rust-DEA584?logo=rust&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat"/>
-    <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat"/>
-</p>  
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
+</p>
 
 ---
 <h2 align="center">🔹 More About Me</h2>  
