@@ -11,7 +11,7 @@
 <h2 align="center">🛠️ Setup</h2>  
 <p align="center">
   <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-hyprland-67FFFF?style=flat"/>
+  <img src="https://img.shields.io/badge/-hyprland/dwm-67FFFF?style=flat"/>
   <img src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat"/>
 </p>  
